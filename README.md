@@ -11,11 +11,11 @@ In these circuit we use these components:
 1. 1 Breadboard 
 1. 1 DC motor
 1. 1 Resistor
-1.1NPN transistor 
-1.1Diode
+1. 1NPN transistor 
+1. 1Diode
 1. Normal wires
 
-![picture](Task1_IoT_CIRCUIT.png)
+![picture](Task2_Electronics_Engineering_CIRCUIT.png)
 
 ## Part 2
 ### **Circuit**
