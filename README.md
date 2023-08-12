@@ -15,7 +15,7 @@ In these circuit we use these components:
 1. 1Diode
 1. Normal wires
 
-![picture](Task2_Electronics_Engineering_CIRCUIT.png)
+![picture](Task2_Electronics_Engineering1_CIRCUIT.png)
 
 ## Part 2
 ### **Circuit**
@@ -25,4 +25,4 @@ In these circuit we use these components:
 1. 1 Micro servo 
 1. Normal wires
 
-![picture](Task2_Electronics_Engineering_CIRCUIT.png)
+![picture](Task2_Electronics_Engineering2_CIRCUIT.png)
